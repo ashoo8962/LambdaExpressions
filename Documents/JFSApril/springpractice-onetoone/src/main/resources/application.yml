@@ -9,5 +9,9 @@ spring:
 
   jpa:
     hibernate:
+<<<<<<< HEAD
+      ddl-auto: create
+=======
       ddl-auto: update
+>>>>>>> ac6fe8e (first commit)
     show-sql: true
